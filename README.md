@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Docker One-File Offline Installer
 
 A self-contained, offline Docker CE installer for Ubuntu 24.04.
@@ -7,7 +7,7 @@ The installer packages the complete Docker installation payload into a single ex
 
 ```text
 docker-offline-installer.sh
-````
+```
 
 The resulting file contains:
 
@@ -1700,5 +1700,4 @@ The Docker One-File Offline Installer provides:
 The recommended production target is an Ubuntu 24.04 VM or physical Ubuntu system running systemd.
 
 Docker containers can be used for installer testing and package validation, but a normal Docker container should not be treated as the target environment for running the Docker daemon.
-
-````
+```

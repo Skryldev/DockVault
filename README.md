@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🐳 Docker One-File Offline Installer
@@ -421,4 +420,3 @@ docker version
 ## 📝 Summary
 
 The **Docker One-File Offline Installer** provides single-file distribution, embedded APT repositories, SHA256 validation, and zero internet dependency for the target machine. The recommended production target is an Ubuntu 24.04 VM or physical system running `systemd`.
-```
